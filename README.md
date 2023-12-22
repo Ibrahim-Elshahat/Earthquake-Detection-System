@@ -31,7 +31,7 @@ The system consists of two main components:
 - **Outputs:**
   - Real-time graph representing changes in x, y, and z axes.
  
-  - ###@ Team names
+  - #### Team names
  
   
   - Ibrahim Elshahat Abelhamid (team Leader)
