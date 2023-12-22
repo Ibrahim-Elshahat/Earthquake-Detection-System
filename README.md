@@ -30,4 +30,15 @@ The system consists of two main components:
   - Serial data from Arduino containing x, y, and z values.
 - **Outputs:**
   - Real-time graph representing changes in x, y, and z axes.
+ 
+  - ## Team names
+  - Ibrahim Elshahat Abelhamid (team Leader)
+  - Ahmed Ashraf Ahmed
+  - Ziad Ebrahim Mohamed
+  - Saif Mohamed Ali
+  - Fares Ebrahim Abdelatif
+  - Eyad Mohamed Elgharib
+  - Adham Abdelnaser Abdalla
+ 
+    
 
